@@ -55,4 +55,4 @@ Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur ou p
 ## <a name="api-rest-exportées"> 4 - API REST Exportées</a>
 Ouvrez [http://localhost:3000/api-docs](http://localhost:3000/api-docs) dans votre navigateur pour découvrir également les API de manipulation
 
-![alt](api restful product.png)
+![alt](./api restful product.png)
