@@ -1,0 +1,28 @@
+{
+  "name": "back-end-product",
+  "version": "1.0.0",
+  "description": "API de produit en utilise NodeJS, Express, MySql, Sequelize et Swagger ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "sequelize",
+    "swagger",
+    "restapi",
+    "CRUD"
+  ],
+  "author": "houssam bouajjioune",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
