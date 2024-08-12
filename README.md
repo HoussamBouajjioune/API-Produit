@@ -30,7 +30,7 @@ Un Back-End simple de gestion des produits (CRUD) en utilise Node.js , Express ,
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/HoussamBouajjioune/API-Produit.git
+git clone https://github.com/HoussamBouajjioune/API-Produit-Sql.git
 cd API-Produit
 ```
 
